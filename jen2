@@ -1,1 +1,1 @@
-java -version
+echo "hi"
